@@ -16,14 +16,15 @@
 
 ### 二、资料集
 
+* [Spring Boot 系列文章](http://www.ityouknow.com/spring-boot.html)
 * [【github】awesome-spring-boot，收集各种Spring Boot 学习资源 ](https://github.com/ityouknow/awesome-spring-boot) 
 * [基于spring Boot 的开源软件](https://mp.weixin.qq.com/s/iwYVhvNgfi0VTkl2tqMbNw)
 * 系列
-	* [Spring Boot系列文章](http://www.ityouknow.com/spring-boot)
 	* [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 	* [Spring Boot 简书](http://www.jianshu.com/collection/f0cf6eae1754)
 	* [Spring干货汇总](https://mp.weixin.qq.com/s/VFHmOIp-H4lgh4gQE-cj5A)
 	* 《SpringBoot揭秘--快速构建微服务体系》
+* [给你一份SpringBoot知识清单](https://mp.weixin.qq.com/s/weh1bwsxBXQC1sbBo7_nwQ)
 
 ### 三、前沿
 

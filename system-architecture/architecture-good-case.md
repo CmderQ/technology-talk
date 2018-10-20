@@ -69,6 +69,8 @@
 
 * ###### 菜鸟
 	* [谈笔1000亿的生意：揭秘菜鸟全球智能仓配技术实践](https://mp.weixin.qq.com/s/igH0UwkvP9WiVTkFX-IrLA)
+* ###### 达达配送
+	* [高性能服务端优化之路](https://mp.weixin.qq.com/s/0lMiU_rZpoT3wqwVHyCpDw)
 * ###### 京东
 	* [京东物流系统架构演进中的最佳实践](http://mp.weixin.qq.com/s/2HVkQCaXQQEQIqTrJZ01wA)
 	* [大数据构建京东智慧物流](https://mp.weixin.qq.com/s/G1l3lRZezV6_h-4CpdofvA)
@@ -258,6 +260,9 @@
 
 * [搭建一个基于Java的分布式爬虫系统](https://mp.weixin.qq.com/s/E0xEqPSbi5IEYV-IFfn5vw)
 * [一次架构设计心得体会](https://mp.weixin.qq.com/s/-3AmP_yMFY75Bdnke4Vmzw)
+* github
+	* [web垂直爬虫框架](https://github.com/java-webbee/web-bee)
+	* [如何写一个垂直爬虫并抓取知乎用户20万数据](https://github.com/pkwenda/blog/issues/8)
 
 
 ---
@@ -266,11 +271,14 @@
 * ###### 会员、注册、登录
 	* [单点登录怎么实现？](https://mp.weixin.qq.com/s/ZT1B6ziSSRW41FN33xA3ZA)
 	* [深入了解Token认证的来龙去脉](https://mp.weixin.qq.com/s/DkwfpZibKdllfm0lpxukWg)
+	* [单点登录原理与简单实现](https://mp.weixin.qq.com/s/89YtsPX4cPLluWbM8JSNXQ)
 * ###### 短信
 	* [如何设计短信验证码防刷机制](https://blog.csdn.net/u011277123/article/details/77519910)
 	* [5种常见的短信验证码防刷策略](http://www.woshipm.com/pd/580976.html)
 * ###### 消息推送、push
 	* [如何用Redis平衡海量信息推送的实效与体量](https://mp.weixin.qq.com/s/tLFOFEWBUfjjO_YInDxpJw)
+* ###### 分布式任务
+	* [点我达分布式任务调度系统-DaJob](https://mp.weixin.qq.com/s/DfGligz50B_x6Y_S-DyU9w?from=groupmessage&isappinstalled=0)
 
 ---
 #### 其它
